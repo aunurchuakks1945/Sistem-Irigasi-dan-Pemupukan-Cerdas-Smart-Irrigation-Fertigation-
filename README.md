@@ -6,5 +6,5 @@ Target Pengguna:1. Petani Modern
 Petani yang ingin meningkatkan efisiensi penggunaan air dan pupuk serta meningkatkan hasil panen dengan teknologi otomatis
 2. Petani Hidroponik 
 Orang atau bisnis yang menggunakan sistem hidroponik membutuhkan kontrol nutrisi yang presisi, sehingga sistem berbasis sensor seperti ESP32 atau Arduino Uno sangat membantu.
-3.Hobiis Smart Farming / Urban Farming 🏡
+3.Hobiis Smart Farming / Urban Farming 
 Orang yang menanam tanaman di rumah, rooftop, atau kebun kecil dengan konsep smart farming berbasis IoT.
